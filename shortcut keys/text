@@ -1,0 +1,786 @@
+                    <tr>
+                    <td><h3>  f1 </h3></td>
+                    <td><h3> open the help  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> f2   </p></td>
+                    <td><p> change the date voucher entery or period for reports  </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3> f3  </h3></td>
+                    <td><h3> switch to another from the list of open companies  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p>  f4 </p></td>
+                    <td><p> open contra  voucher </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3>  f5 </h3></td>
+                    <td><h3> open payment voucher  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> f6  </p></td>
+                    <td><p> open receipt voucher   </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3> f7  </h3></td>
+                    <td><h3> open journal voucher </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> f8  </p></td>
+                    <td><p>  open seles voucher </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3>  f9 </h3></td>
+                    <td><h3> open purchase voucher  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> f10 </p></td>
+                    <td><p> view list of voucher </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3> f11  </h3></td>
+                    <td><h3> open company features  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> f12  </p></td>
+                    <td><p> open the list configurations applicable for  the report / view  </p></td>
+                    </tr>
+
+                     <tr>
+                    <td><h3>  esc </h3></td>
+                    <td><h3> go back to previous screen by closing the currently open screen   </h3></td>
+                    </tr> 
+
+
+
+                    <tr>
+                    <td><p> ctrl + f1   </p></td>
+                    <td><p>  open tally help topic on the context of the screen that is open </p></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><h3>alt + f3   </h3></td>
+                    <td><h3>select and open company located in the same folder or other data paths   </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p>  alt +d3 </p></td>
+                    <td><p> delete an entry a report  </p></td>
+                    </tr>
+
+
+
+
+                    <tr>
+                    <td><h3>  ctrl + f3 </h3></td>
+                    <td><h3> shut the currently companies  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> ctrl + f4  </p></td>
+                    <td><p> open payroll voucher  </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3>  alt + f5 </h3></td>
+                    <td><h3> open debit note  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p>ctrl + f5   </p></td>
+                    <td><p>  open rejection out </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3>alt + f6   </h3></td>
+                    <td><h3> open credit note  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> ctrl + f6  </p></td>
+                    <td><p>open rejection in   </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3> alt + f7  </h3></td>
+                    <td><h3> open stock journal  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p>  ctrl + f7 </p></td>
+                    <td><p> open physical stock  </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3>alt + f8   </h3></td>
+                    <td><h3> open delivery note  </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p> ctrl + f8   </p></td>
+                    <td><p> open sales order </p></td>
+                    </tr>
+
+                    <tr>
+                    <td><h3> alt + f9  </h3></td>
+                    <td><h3>  open receipt note </h3></td>
+                    </tr>
+
+
+                    <tr>
+                    <td><p>  ctrl + f9 </p></td>
+                    <td><p> open purchase order </p></td>
+                    </tr>
+
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr><tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr><tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr><tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    <tr>
+                        <td><h3>  </h3></td>
+                        <td><h3>  </h3></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><p>  </p></td>
+                        <td><p>  </p></td>
+                    </tr>
+                    
+
+
+
+
